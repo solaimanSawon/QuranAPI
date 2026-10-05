@@ -1,0 +1,6 @@
+@WebBack_HostAddress = http://localhost:5153
+
+GET {{WebBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
